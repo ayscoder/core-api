@@ -11,11 +11,11 @@
         <url>https://github.com/ayscoder/core-api</url>
         <connection>scm:git:git://github.com/ayscoder/core-api.git</connection>
         <developerConnection>scm:git:git@github.com:ayscoder/core-api.git</developerConnection>
-        <tag>core-api-2.0.0-2</tag>
+        <tag>HEAD</tag>
     </scm>
     <groupId>com.ays</groupId>
     <artifactId>core-api</artifactId>
-    <version>2.0.0-2</version>
+    <version>2.0-SNAPSHOT</version>
     <properties>
         <java.version>1.8</java.version>
         <common.lang.version>2.6</common.lang.version>
